@@ -1,8 +1,8 @@
 School Name,Suburb,Type,Sector,Geolocation,Latitude,Longitude,VET Certs With 2021 Enrolments,% Applying for Tertiary Study,Median VCE Score,VCE 40+ %
 Academy of Mary Immaculate,Fitzroy,Secondary,Non-Gov,Major Cities,-37.8037,144.974,10,94,30,   6.5
-Adass Israel School,Elsternwick,Combined,Non-Gov,Major Cities,-37.8839,145.008,3,-,-,-
+Adass Israel School,Elsternwick,Combined,Non-Gov,Major Cities,-37.8839,145.008,3,0,0,0
 Aitken College,Greenvale,Combined,Non-Gov,Major Cities,-37.6274,144.888,21,94.2,28,   2.7
-Al Iman College,Melton South,Combined,Non-Gov,Major Cities,-37.707,144.565,-,35.7,26,   3.9
+Al Iman College,Melton South,Combined,Non-Gov,Major Cities,-37.707,144.565,0,35.7,26,   3.9
 Al Siraat College,Epping,Combined,Non-Gov,Major Cities,-37.6243,145.038,2,95,30,   4.6
 Albert Park College,Albert Park,Secondary,Gov,Major Cities,-37.8444,144.947,23,85.8,30,   9.0
 Alexandra Secondary College,Alexandra,Secondary,Gov,Inner Regional,-37.1945,145.701,7,69.6,26,   0.8
@@ -15,7 +15,7 @@ Antonine College,Pascoe Vale South,Combined,Non-Gov,Major Cities,-37.7412,144.94
 Apollo Bay P-12 College,Apollo Bay,Combined,Gov,Inner Regional,-38.7535,143.661,3,69.2,33,   5.4
 Aquinas College,Ringwood,Secondary,Non-Gov,Major Cities,-37.823,145.235,45,85.2,31,   7.5
 Ararat Secondary College,Ararat,Secondary,Gov,Inner Regional,-37.286,142.922,14,52.6,25,   2.7
-Armstrong Creek School,Armstrong Creek,Primary,Gov,Major Cities,-38.2314,144.364,-,-,-,-
+Armstrong Creek School,Armstrong Creek,Primary,Gov,Major Cities,-38.2314,144.364,0,0,0,0
 Ashwood High School,Ashwood,Secondary,Gov,Major Cities,-37.8641,145.103,16,95.5,33,  10.8
 Assumption College,Kilmore,Secondary,Non-Gov,Inner Regional,-37.301,144.948,35,75.2,28,   4.0
 Auburn High School,Hawthorn East,Secondary,Gov,Major Cities,-37.8398,145.045,3,94.3,31,  10.6
@@ -30,7 +30,7 @@ Ballarat Clarendon College,Ballarat,Combined,Non-Gov,Inner Regional,-37.5596,143
 Ballarat Grammar,Wendouree,Combined,Non-Gov,Inner Regional,-37.5392,143.831,20,91,32,  13.3
 Ballarat High School,Ballarat,Secondary,Gov,Inner Regional,-37.5542,143.818,30,60.7,28,   1.8
 Balwyn High School,Balwyn North,Secondary,Gov,Major Cities,-37.7979,145.077,7,91.4,32,  16.9
-Bannockburn P-12 College,Bannockburn,Combined,Gov,Inner Regional,-38.0471,144.17,13,-,30,0
+Bannockburn P-12 College,Bannockburn,Combined,Gov,Inner Regional,-38.0471,144.17,13,0,30,0
 Bayside Christian College,Langwarrin South,Combined,Non-Gov,Major Cities,-38.1786,145.163,14,79.2,30,   6.0
 Bayswater Secondary College,Bayswater,Secondary,Gov,Major Cities,-37.839,145.262,15,50,26,0
 Bayview College,Portland,Secondary,Non-Gov,Outer Regional,-38.3452,141.606,10,86.4,28,0
@@ -89,11 +89,11 @@ Corryong College,Corryong,Combined,Gov,Outer Regional,-36.1929,147.911,8,46.7,31
 Covenant College,Bell Post Hill,Combined,Non-Gov,Major Cities,-38.0976,144.318,20,75,30,   9.6
 Craigieburn Secondary College,Craigieburn,Secondary,Gov,Major Cities,-37.6086,144.936,17,59.8,22,   1.4
 Cranbourne Secondary College,Cranbourne,Secondary,Gov,Major Cities,-38.1081,145.287,30,80,25,   0.7
-Croydon Community School,Croydon,Secondary,Gov,Major Cities,-37.7893876,145.2807261,15,-,-,-
-Crusoe 7-10 Secondary College,Kangaroo Flat,Secondary,Gov,Inner Regional,-36.7908,144.234,7,-,-,-
+Croydon Community School,Croydon,Secondary,Gov,Major Cities,-37.7893876,145.2807261,15,0,0,0
+Crusoe 7-10 Secondary College,Kangaroo Flat,Secondary,Gov,Inner Regional,-36.7908,144.234,7,0,0,0
 Damascus College,Mount Clear,Secondary,Non-Gov,Inner Regional,-37.6115,143.87,25,76,28,   3.0
 Dandenong High School,Dandenong,Secondary,Gov,Major Cities,-37.9794,145.209,34,78.2,26,   1.3
-Darul Ulum College of Victoria,Fawkner,Combined,Non-Gov,Major Cities,-37.7056,144.971,-,67.8,31,   6.8
+Darul Ulum College of Victoria,Fawkner,Combined,Non-Gov,Major Cities,-37.7056,144.971,0,67.8,31,   6.8
 Daylesford Secondary College,Daylesford,Secondary,Gov,Inner Regional,-37.3347,144.152,7,75,29,   6.7
 De La Salle College,Malvern,Combined,Non-Gov,Major Cities,-37.8577,145.032,24,91.1,31,  10.3
 Diamond Valley College,Diamond Creek,Secondary,Gov,Major Cities,-37.6724,145.168,20,63.8,27,   2.8
@@ -134,7 +134,7 @@ Glen Eira College,Caulfield East,Secondary,Gov,Major Cities,-37.8857,145.038,18,
 Gleneagles Secondary College,Endeavour Hills,Secondary,Gov,Major Cities,-37.9744,145.276,26,67,28,   2.8
 Glenroy Secondary College,Glenroy,Secondary,Gov,Major Cities,-37.7053,144.928,15,69,23,0
 Good News Lutheran College,Tarneit,Combined,Non-Gov,Major Cities,-37.8552,144.666,9,83.3,28,   3.9
-Goroke P-12 College,Goroke,Combined,Gov,Outer Regional,-36.7157,141.483,5,-,-,-
+Goroke P-12 College,Goroke,Combined,Gov,Outer Regional,-36.7157,141.483,5,0,0,0
 Grovedale College,Grovedale,Secondary,Gov,Major Cities,-38.211,144.327,24,52.6,24,   0.8
 Haileybury College,Keysborough,Combined,Non-Gov,Major Cities,-37.996,145.146,7,94.4,35,  29.2
 Haileybury Girls College,Keysborough,Combined,Non-Gov,Major Cities,-37.9953,145.144,6,98.8,37,  37.2
@@ -149,7 +149,7 @@ Holmes Grammar School,Melbourne,Secondary,Non-Gov,Major Cities,-37.8103,144.972,
 Holy Trinity Lutheran College,Horsham,Combined,Non-Gov,Outer Regional,-36.7082,142.218,10,100,30,  19.3
 Hopetoun P-12 College,Hopetoun,Combined,Gov,Outer Regional,-35.7349,142.366,9,33.3,30,  13.3
 Horsham College,Horsham,Secondary,Gov,Outer Regional,-36.7077,142.187,27,67.4,30,   4.1
-Hume Anglican Grammar,Mickleham,Combined,Non-Gov,Major Cities,-37.5684,144.931,-,95.3,30,   5.3
+Hume Anglican Grammar,Mickleham,Combined,Non-Gov,Major Cities,-37.5684,144.931,0,95.3,30,   5.3
 Huntingtower School,Mount Waverley,Combined,Non-Gov,Major Cities,-37.8767,145.136,9,98.9,37,  31.6
 Islamic College Of Melbourne,Tarneit,Combined,Non-Gov,Major Cities,-37.8547,144.66,5,100,31,   5.9
 Ivanhoe Girls' Grammar School,Ivanhoe,Combined,Non-Gov,Major Cities,-37.7665,145.047,5,96.5,35,  25.5
@@ -174,26 +174,26 @@ Lakeview Senior College,Caroline Springs,Secondary,Gov,Major Cities,-37.7312,144
 Lalor Secondary College,Lalor,Secondary,Gov,Major Cities,-37.6727,145.031,20,69.2,28,   3.1
 Lara Secondary College,Lara,Secondary,Gov,Major Cities,-38.0184,144.412,26,46,24,   2.4
 Lavalla Catholic College,Traralgon,Secondary,Non-Gov,Inner Regional,-38.2009,146.514,25,65.9,28,   4.8
-Lavers Hill K-12 College,Lavers Hill,Combined,Gov,Outer Regional,-38.6818,143.383,11,100,I/D,I/D
+Lavers Hill K-12 College,Lavers Hill,Combined,Gov,Outer Regional,-38.6818,143.383,11,100,0,0
 Laverton P-12 College,Laverton,Combined,Gov,Major Cities,-37.8562,144.773,22,96.4,22,0
 Leibler Yavneh College,Elsternwick,Combined,Non-Gov,Major Cities,-37.8929,145.007,9,92.1,37,  29.4
 Leongatha Secondary College,Leongatha,Secondary,Gov,Inner Regional,-38.4787,145.961,28,84.7,27,   1.3
 Lighthouse Christian College,Keysborough,Combined,Non-Gov,Major Cities,-38.0011,145.143,8,97.5,30,   6.6
 Lilydale Heights College,Lilydale,Secondary,Gov,Major Cities,-37.7458,145.341,24,73.7,23,   0.5
 Lilydale High School,Lilydale,Secondary,Gov,Major Cities,-37.7607,145.345,28,51.3,27,   2.4
-Little Yarra Steiner School,Yarra Junction,Combined,Non-Gov,Inner Regional,-37.7944,145.631,-,57.1,32,   5.6
+Little Yarra Steiner School,Yarra Junction,Combined,Non-Gov,Inner Regional,-37.7944,145.631,0,57.1,32,   5.6
 Loreto College,Ballarat,Secondary,Non-Gov,Inner Regional,-37.5569,143.823,23,82.4,31,  10.9
 Loreto Mandeville Hall,Toorak,Combined,Non-Gov,Major Cities,-37.8482,145.015,4,98,35,  24.7
 Lorne P-12 College,Lorne,Combined,Gov,Inner Regional,-38.5392,143.974,1,69.2,27,   4.3
 Lowanna College,Newborough,Secondary,Gov,Inner Regional,-38.1767,146.286,29,53.1,25,   1.6
 Loyola College,Watsonia,Secondary,Non-Gov,Major Cities,-37.7034,145.081,18,94,30,   5.1
-Lynall Hall Community School,Richmond,Secondary,Gov,Major Cities,-37.8165,145.002,10,100,-,-
+Lynall Hall Community School,Richmond,Secondary,Gov,Major Cities,-37.8165,145.002,10,100,0,0
 Lyndale Secondary College,Dandenong North,Secondary,Gov,Major Cities,-37.9578,145.207,24,90.8,28,   2.9
 Lyndhurst Secondary College,Cranbourne,Secondary,Gov,Major Cities,-38.075,145.271,26,63.6,28,   4.0
 Macleod College,Macleod,Combined,Gov,Major Cities,-37.7247,145.072,15,87,26,   0.4
 Maffra Secondary College,Maffra,Secondary,Gov,Inner Regional,-37.9649,146.982,11,77.1,28,   6.5
 Mallacoota P-12 College,Mallacoota,Combined,Gov,Remote,-37.5594,149.754,3,41.7,31,   2.6
-Manangatang P-12 College,Manangatang,Combined,Gov,Outer Regional,-35.0562,142.885,1,-,I/D,I/D
+Manangatang P-12 College,Manangatang,Combined,Gov,Outer Regional,-35.0562,142.885,1,0,0,0
 Manor Lakes P-12 College,Wyndham Vale,Combined,Gov,Major Cities,-37.8742,144.602,33,48,23,   0.2
 Mansfield Secondary College,Mansfield,Secondary,Gov,Outer Regional,-37.0627,146.089,15,51.7,29,   7.1
 Maranatha Christian School,Endeavour Hills,Combined,Non-Gov,Major Cities,-37.9709,145.278,11,82.6,32,   6.8
@@ -213,9 +213,9 @@ Melton Secondary College,Melton,Secondary,Gov,Major Cities,-37.6824,144.567,23,7
 Mentone Girls' Grammar School,Mentone,Combined,Non-Gov,Major Cities,-37.9894,145.065,5,100,34,  19.5
 Mentone Grammar School,Mentone,Combined,Non-Gov,Major Cities,-37.9877,145.068,24,94.2,34,  19.9
 Mercy Regional College,Camperdown,Secondary,Non-Gov,Inner Regional,-38.2341,143.141,13,58.7,27,   1.4
-Mernda Central P-12 College,Mernda,Combined,Gov,Major Cities,-37.604,145.088,11,-,33,   5.3
+Mernda Central P-12 College,Mernda,Combined,Gov,Major Cities,-37.604,145.088,11,0,33,   5.3
 Mildura Senior College,Mildura,Secondary,Gov,Outer Regional,-34.198,142.145,34,59.2,26,   1.7
-Minaret College,Springvale,Combined,Non-Gov,Major Cities,-37.93863,145.149,-,97.6,28,   3.6
+Minaret College,Springvale,Combined,Non-Gov,Major Cities,-37.93863,145.149,0,97.6,28,   3.6
 Monbulk College,Monbulk,Secondary,Gov,Major Cities,-37.8832,145.428,34,51.6,27,   4.0
 Monivae College,Hamilton,Secondary,Non-Gov,Inner Regional,-37.742,142.049,16,62.7,28,   3.5
 Monterey Secondary College,Frankston North,Secondary,Gov,Major Cities,-38.1267,145.148,16,63.6,28,0
@@ -242,11 +242,11 @@ Northcote High School,Northcote,Secondary,Gov,Major Cities,-37.7742,144.99,27,91
 Northern Bay P-12 College,Corio,Combined,Gov,Major Cities,-38.0793,144.356,33,43.8,23,   1.9
 Northside Christian College,Bundoora,Combined,Non-Gov,Major Cities,-37.695,145.055,12,85,30,   6.5
 Norwood Secondary College,Ringwood,Secondary,Gov,Major Cities,-37.8005,145.238,32,70.1,28,   4.4
-Nossal High School,Berwick,Secondary,Gov,Major Cities,-38.0391,145.336,-,100,36,  26.9
+Nossal High School,Berwick,Secondary,Gov,Major Cities,-38.0391,145.336,0,100,36,  26.9
 Notre Dame College,Shepparton,Secondary,Non-Gov,Inner Regional,-36.3747,145.408,32,65.5,26,   3.2
 Numurkah Secondary College,Numurkah,Secondary,Gov,Inner Regional,-36.0799,145.446,10,72.2,27,   1.3
 Oakleigh Grammar,Oakleigh,Combined,Non-Gov,Major Cities,-37.8959,145.083,6,86.4,29,   4.4
-Oakwood School,Caulfield North,Secondary,Gov,Major Cities,-37.874,145.034,25,-,-,-
+Oakwood School,Caulfield North,Secondary,Gov,Major Cities,-37.874,145.034,25,0,0,0
 Oberon High School,Armstrong Creek,Secondary,Gov,Major Cities,-38.23066802,144.3640703,25,66.1,30,   3.0
 Officer Secondary College,Officer,Secondary,Gov,Major Cities,-38.0697,145.411,34,71.6,26,   0.8
 OneSchool Global Vic,Melton West,Combined,Non-Gov,Major Cities,-37.68633517977,144.542275654977,2,0,32,  11.2
@@ -255,24 +255,24 @@ Our Lady of Mercy College,Heidelberg,Secondary,Non-Gov,Major Cities,-37.7579,145
 Our Lady of Sion College,Box Hill,Secondary,Non-Gov,Major Cities,-37.8184,145.13,24,96.7,32,   9.3
 Ouyen P-12 College,Ouyen,Combined,Gov,Outer Regional,-35.0646,142.323,11,75,27,   4.4
 Oxley Christian College,Chirnside Park,Combined,Non-Gov,Major Cities,-37.7629,145.304,5,83.3,32,   9.2
-Ozford College,Melbourne,Secondary,Non-Gov,Major Cities,-37.8128,144.955,-,19.2,19,   1.5
+Ozford College,Melbourne,Secondary,Non-Gov,Major Cities,-37.8128,144.955,0,19.2,19,   1.5
 Padua College,Mornington,Secondary,Non-Gov,Major Cities,-38.2183,145.072,40,68.7,29,   6.1
 Pakenham Secondary College,Pakenham,Secondary,Gov,Major Cities,-38.0691,145.471,25,97.4,26,   0.6
 Parade College,Bundoora,Secondary,Non-Gov,Major Cities,-37.6902,145.067,18,89.6,30,   6.5
 Parkdale Secondary College,Mordialloc,Secondary,Gov,Major Cities,-37.9896,145.094,40,62.3,30,   7.5
-Parkville College,Parkville,Special,Gov,Major Cities,-37.7788,144.943,22,I/D,I/D,I/D
+Parkville College,Parkville,Special,Gov,Major Cities,-37.7788,144.943,22,0,0,0
 Peninsula Grammar,Mount Eliza,Combined,Non-Gov,Major Cities,-38.1982,145.091,12,89.5,33,  14.7
 Penola Catholic College,Broadmeadows,Secondary,Non-Gov,Major Cities,-37.6888,144.92,27,76.4,26,   2.3
-Peter Lalor Secondary College,Lalor,Secondary,Gov,Major Cities,-37.6669,145.013,20,-,-,-
+Peter Lalor Secondary College,Lalor,Secondary,Gov,Major Cities,-37.6669,145.013,20,0,0,0
 Plenty Valley Christian College,Doreen,Combined,Non-Gov,Major Cities,-37.6135,145.139,24,75.4,29,   1.7
 Portland Secondary College,Portland,Secondary,Gov,Outer Regional,-38.3588,141.596,13,51.7,25,   0.3
-Presbyterian Ladies' College,Burwood,Combined,Non-Gov,Major Cities,-37.8489,145.107,-,98.8,36,  30.4
+Presbyterian Ladies' College,Burwood,Combined,Non-Gov,Major Cities,-37.8489,145.107,0,98.8,36,  30.4
 Rainbow P-12 College,Rainbow,Combined,Gov,Remote,-35.8945,141.997,8,71.4,27,0
 Red Cliffs Secondary College,Red Cliffs,Secondary,Gov,Outer Regional,-34.2988,142.195,19,31,25,0
-Red Rock Christian College,Sunbury,Combined,Non-Gov,Inner Regional,-37.5191,144.706,2,-,29,0
+Red Rock Christian College,Sunbury,Combined,Non-Gov,Inner Regional,-37.5191,144.706,2,0,29,0
 Reservoir High School,Reservoir,Secondary,Gov,Major Cities,-37.7223,145.03,11,78.8,28,   3.9
 Ringwood Secondary College,Ringwood,Secondary,Gov,Major Cities,-37.8166,145.239,41,85.3,30,   7.0
-River Nile School,North Melbourne,Special,Non-Gov,Major Cities,-37.8051,144.955,10,-,-,-
+River Nile School,North Melbourne,Special,Non-Gov,Major Cities,-37.8051,144.955,10,0,0,0
 Robinvale College,Robinvale,Combined,Gov,Outer Regional,-34.5889,142.782,10,60,27,   2.6
 Rochester Secondary College,Rochester,Secondary,Gov,Inner Regional,-36.3528,144.699,11,83.3,28,   1.4
 Rosebud Secondary College,Rosebud,Secondary,Gov,Major Cities,-38.3676,144.887,20,83.3,28,   5.1
@@ -334,7 +334,7 @@ The Geelong College,Newtown,Combined,Non-Gov,Major Cities,-38.1524,144.34,9,90.8
 The Grange P-12 College,Hoppers Crossing,Combined,Gov,Major Cities,-37.8581,144.675,22,64.9,22,   1.6
 The King David School,Armadale,Combined,Non-Gov,Major Cities,-37.8582,145.01,13,100,36,  26.8
 The Knox School,Wantirna South,Combined,Non-Gov,Major Cities,-37.8655,145.219,8,92.5,33,  16.1
-The Lakes South Morang College,South Morang,Combined,Gov,Major Cities,-37.6346,145.077,8,I/D,I/D,I/D
+The Lakes South Morang College,South Morang,Combined,Gov,Major Cities,-37.6346,145.077,8,0,0,0
 Thomas Carr College,Tarneit,Secondary,Non-Gov,Major Cities,-37.8477,144.702,26,89.8,27,   2.1
 Thomastown Secondary College,Thomastown,Secondary,Gov,Major Cities,-37.679,145.003,11,66,26,   2.9
 Thornbury High School,Thornbury,Secondary,Gov,Major Cities,-37.7565,145.025,23,88.7,29,   6.3
@@ -348,7 +348,7 @@ University High School,Parkville,Secondary,Gov,Major Cities,-37.797,144.956,20,8
 Upper Yarra Secondary College,Yarra Junction,Secondary,Gov,Inner Regional,-37.7921,145.624,20,48.8,25,0
 Upwey High School,Upwey,Secondary,Gov,Major Cities,-37.9032,145.334,28,70.4,27,   1.3
 Vermont Secondary College,Vermont,Secondary,Gov,Major Cities,-37.8429,145.2,29,77.9,31,   9.8
-Victorian College For The Deaf,Melbourne,Special,Gov,Major Cities,-37.8498,144.982,6,-,35,  25.0
+Victorian College For The Deaf,Melbourne,Special,Gov,Major Cities,-37.8498,144.982,6,0,35,  25.0
 Victory Lutheran College,West Wodonga,Combined,Non-Gov,Inner Regional,-36.1168,146.846,11,68.4,30,  11.3
 Viewbank College,Viewbank,Secondary,Gov,Major Cities,-37.7412,145.087,20,79.7,30,   3.9
 Virtual School Victoria,Thornbury,Combined,Gov,Major Cities,-37.762,145.026,24,31.9,28,   4.7
@@ -376,4 +376,4 @@ Yarram Secondary College,Yarram,Secondary,Gov,Inner Regional,-38.5666,146.685,17
 Yarrawonga College P-12,Yarrawonga,Combined,Gov,Inner Regional,-36.0214,146.007,15,61.9,27,   0.9
 Yea High School,Yea,Secondary,Gov,Inner Regional,-37.215,145.409,13,65.5,26,   0.7
 Yeshivah College,St Kilda East,Combined,Non-Gov,Major Cities,-37.8679,145.0,3,88.2,35,  14.3
-Youth2Industry College,South Melbourne,Secondary,Non-Gov,Major Cities,-37.8370872529307,144.966561398377,17,-,-,-
+Youth2Industry College,South Melbourne,Secondary,Non-Gov,Major Cities,-37.8370872529307,144.966561398377,17,0,0,0

@@ -29,7 +29,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#qesearch_questions">Research Questions</a></li>
+        <li><a href="#research-questions">Research Questions</a></li>
       </ul>
     </li>
     <li>
@@ -39,7 +39,7 @@
       </ul>
     </li>
     <li><a href="#creators">Creators</a></li>
-    <li><a href="#citing_and_referencing">Citing and Referencing</a></li>
+    <li><a href="#citing-and-referencing">Citing and Referencing</a></li>
   </ol>
 </details>
 
@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    $ pip install gmaps
    ```
-4. Create `api_keys.py` in the same location as `analysis.ipynb`
+4. Create `api_keys.py` file in the same folder location as `analysis.ipynb`
    ```js
    api_keys.py
    ```
@@ -105,7 +105,9 @@ Udeshi Pereira - [https://github.com/Shaloomi](https://github.com/Shaloomi)
 ## Citing and Referencing
 
 * School Data Victoria - SearchResults.xlsx. (2022). Retrieved from [https://asl.acara.edu.au/School-Search?state=VIC](https://asl.acara.edu.au/School-Search?state=VIC)
+
 * VCE Results Data Victoria - 2021SeniorSecondaryCompletionAndAchievementInformation.xlsx. (2021.) Retrieved from [https://www.vcaa.vic.edu.au/administration/research-and-statistics/Pages/SeniorSecondaryCompletion.aspx](https://www.vcaa.vic.edu.au/administration/research-and-statistics/Pages/SeniorSecondaryCompletion.aspx)
+
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

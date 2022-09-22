@@ -57,8 +57,11 @@ We are seeking to research how population density affects the education industry
 ## Research Questions
 
 
-* Does higher population urban areas have better access to educational resources when compared to rural areas.
-* 
+* Is there a relationship with Geolocation and academic success?
+
+* Is there a relationship with Geolocation and the choices of schools?
+
+* Which school sector has best chance of success?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
